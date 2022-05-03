@@ -1,0 +1,11 @@
+.place__description {
+  margin: 0;
+}
+
+@media screen and (max-width: 620px) {
+  .place__description {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 90%;
+  }
+}
