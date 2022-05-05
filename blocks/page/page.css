@@ -1,6 +1,6 @@
 .page {
   font-family: 'Inter', 'Arial', sans-serif;
-  text-rendering: auto;
+  text-rendering: optimizeLegibility;
   color: white;
   max-width: 1280px;
   margin: 28px auto 24px;
