@@ -28,4 +28,8 @@
     flex-direction: column;
     row-gap: 29px;
   }
+  
+  .place:last-of-type {
+    margin-bottom: 66px;
+  }
 }
